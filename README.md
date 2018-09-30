@@ -1,5 +1,5 @@
 # se-hw1-vue_learning_report
-#Vue.JS
+# Vue.JS
 
 ## 介绍
 ----
@@ -100,7 +100,7 @@ tab
 
 定义：路由钩子主要是给使用者在路由发生变化时进行一些特殊处理而定义的函数
 
-###过渡
+### 过渡
 
 6 class(1.v-enter 2.v-enter-active 3.v-enter-to 4.v-leave 5.v-leave-active 6.v-leave-to)
 
